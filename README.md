@@ -24,4 +24,4 @@ The Resume Builder is a simple web application that allows users to create and f
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PoojaR-17/Resume
